@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RupeekWeatherAssignment</string>
+
+    <string name="exit_message">Press again to Exit!</string>
+    <string name="retry">Retry</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="lat_lng">Lat : %.6f Long : %.6f</string>
+    <string name="weather_app">Weather App</string>
+    <string name="temperature">%d \u2103</string>
+    <string name="rain_average">%d\%%</string>
+    <string name="wind_speed">%d km/h</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
